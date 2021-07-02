@@ -5,5 +5,7 @@
   "description": "Build number getter in iOS & Android",
   "unity": "2021.1",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
 }
